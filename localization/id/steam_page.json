@@ -1,0 +1,36 @@
+﻿{
+	"MAIN_SECTION": {
+		"MS1": "[i]This page has been translated with the help of the community![/i]",
+		"MS2": "[h2]A NEW ERA OF ORGANIC CITY-BUILDING![/h2]",
+		"MS3": "Foundation is a [b]grid-less[/b], [b]laidback[/b] medieval city-building game with a focus on [b]organic development[/b], [b]monument construction[/b] and [b]resource management[/b].",
+		"MS4": "As the newly appointed lord or lady of a land still untouched and full of potential, you are given the opportunity to create a prosperous medieval settlement as you envision it, managing your resources and growing population, whilst being challenged by narrative events, quests and missions, from across the kingdom.",
+		"MS5": "From very modest beginnings, build rudimentary workplaces, extract and store resources, establish trade routes, erect majestic monuments and before long... a bustling city will emerge in your new found lands!",
+		"MS6": "[h2]FEATURES[/h2]",
+		"MS7": "[b]Organic urbanism[/b]",
+		"MS8": "Create gridless and organically sprawling cities that grow like medieval cities of the period. Plan the construction of various workplaces and watch as the villagers create natural paths and build their own houses. Intuitively paint zones to define areas like housing, farming, gathering and more.",
+		"MS9": "[b]Thrive and prosper[/b]",
+		"MS10": "Weave a complex web of interactions between inhabitants’ needs and skills, resource availability, extraction, and goods production.",
+		"MS11": "[b]Flexible building creation[/b]",
+		"MS12": "Craft and design unique free-form buildings such as Taverns, Keeps, Churches and more, using a system of interlocking building parts. Get even more creative by toggling off the snap function for a fully customisable creation.",
+		"MS13": "[b]Interact with the Estates of the Realm[/b]",
+		"MS14": "Develop the splendor of your village and raise your reputation among the different Estates of the Realm to gain access to exclusive buildings and perks.",
+		"MS15": "[b]Modding community and support[/b]",
+		"MS16": "Create and share your own characters, buildings, quests, terrains and even visual and gameplay tweaks with Lua and mod.io and be part of the creative Foundation community.",
+		"MS17": "[b]Original soundtrack[/b]",
+		"MS18": "Immerse yourself in our blissful soundtrack by Audinity, talented composers who worked on Paradox titles such as [i]Crusader Kings II[/i] and [i]Europa Universalis IV[/i]!"
+	},
+	"EARLY_ACCESS": {
+		"EA1": "The Early Access is an opportunity for players to get access to the game earlier while allowing us to add content and improve the experience based on player feedback.",
+		"EA2": "Acknowledging that we are a small indie team, we have raised the initial estimate of one year by an additional couple of years in Early Access. This will give us the opportunity to deliver the ambitious game we have envisioned.",
+		"EA3": "During Early Access we have already delivered a number of major improvements such as a new UI, additional gameplay mechanics, production chains and monuments. However much more is yet to come during development including:",
+		"EA4": "[list][*]New buildings and production chains[*]Deeper Estate system[*]New biomes and environmental props[*]Buildings aesthetic revamp[*]Deeper narrative content[*]New map generator[*]New modding capabilities[*]And more…[/list]",
+		"EA5": "The actual game is fully playable and contains around 60% of the planned content. It contains 5 diverse maps, more than 70 buildings and structures, open ended gameplay as well as an active modding community.",
+		"EA6": "Price may increase slightly upon final release.",
+		"EA7": "We are encouraging players to provide us with their feedback. We already have a very active Discord Community and a public bug tracker."
+	},
+	"REVIEWS": {
+		"REV1": "Foundation already managed to win the hearts of many editors here at GameStar.",
+		"REV2": "Polymorph’s easygoing sim is engaging and peaceful.",
+		"REV3": "Foundation is a delightfully indulgent new city-builder."
+	}
+}

@@ -1,0 +1,13 @@
+﻿{
+	"ACHIEVEMENTS": {
+		"X_ACHIEVEMENTS_EARNED": "{1} prestasi tercapai ({2}%)",
+"ACHIEVEMENTS_DISABLED_MODS_NOTIFICATION": "Prestasi dinonaktifkan. Untuk mengaktifkannya, mulai game baru tanpa mod.",
+"ACHIEVEMENTS_DISABLED_OLD_SAVEGAME_NOTIFICATION": "Prestasi dinonaktifkan. Untuk mengaktifkannya, mulai game baru atau muat savegame dari playthrough yang lebih baru.",
+"ACHIEVEMENTS_DISABLED_WARNING": "Prestasi tidak dapat diperoleh ketika mod diaktifkan.",
+"ACHIEVEMENT_UNLOCKED": "Prestasi Terbuka!",
+"ACHIEVEMENT_PROGRESS": "Kemajuan Prestasi",
+"X_HIDDEN_ACHIEVEMENTS_REMAINING": "{1} prestasi tersembunyi(s)",
+"ACHIEVEMENT_DETAILS_REVEALED_ONCE_UNLOCKED": "Detail untuk setiap prestasi akan diungkapkan setelah terbuka",
+"ACHIEVEMENTS_DISABLED_IN_BUILD": "Prestasi dinonaktifkan dalam build ini"
+	}
+}

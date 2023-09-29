@@ -1,0 +1,9 @@
+﻿{
+  "LOADING_TIPS": {
+	"LOADING_TIP_PRIORITY_TAX_OFFICE": "Strategi yang baik adalah membangun beberapa Kantor Pajak di sekitar desa yang besar.",
+"LOADING_TIP_PRIORITY_TAX_TRACKER": "Klik kanan pada {1} untuk mengaktifkan/menonaktifkan Pelacak Pajak.",
+"LOADING_TIP_PRIORITY_BUILDING_SECOND_CLICK": "Klik pada sebuah bangunan untuk memilihnya. Klik lagi untuk memilih sub-bangunan yang ditargetkan.",
+"LOADING_TIP_PRIORITY_BUILDER_WORKSHOP_CLOSE": "Tempatkan Bengkel Pembangun dekat dengan konstruksi besar untuk efisiensi yang lebih baik.",
+"LOADING_TIP_PRIORITY_PLAN_DESIRABILITY": "Rencanakan hunian dengan Desirabilitas tinggi sebelum mempromosikan penduduk desa."
+  }
+}

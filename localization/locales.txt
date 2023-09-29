@@ -1,0 +1,29 @@
+﻿en:English
+fr:Français
+de:Deutsch
+es-ES:Español
+pt-PT:Português
+pt-BR:Português - Brazil
+it:Italiano
+ca:Català
+ru:Русский язык
+uk:Українська
+el:Ελληνικά
+cs:Čeština
+eu:Euskara
+da:Dansk
+fi:Suomi
+hu:Magyar
+nl:Nederlands
+no:Norsk
+pl:Polski
+sv-SE:Svenska
+ko:한국어
+zh-CN:简体中文
+zh-TW:繁體中文
+tr:Türkçe
+ga-IE:Gaeilge
+ja:日本語
+vi:tiếng Việt
+br-FR:Brezhoneg
+id:Indonesia

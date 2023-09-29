@@ -1,0 +1,139 @@
+﻿{
+	"WHATS_NEW_1.6": {
+		"WHATS_NEW_1.6_HEADER": "Dengarlah! Pembaruan Mineral & Kerajinan {1} sudah tiba!",
+		"WHATS_NEW_1.6_BUILDERS_WORKSHOP": "**Bengkel Tukang** yang baru sekarang **WAJIB** digunakan untuk segala hal terkait konstruksi dan dapat diperluas dengan tempat kerja seperti pahatan dan kaca patri.",
+		"WHATS_NEW_1.6_MINERAL": "Deposito mineral** baru telah tersebar di sekitar peta. Membangun **tambang** di deposito mineral tersebut akan memungkinkan para penambang untuk mengekstraksi berbagai bijih (seperti besi) untuk digunakan dalam rantai produksi baru.",
+		"WHATS_NEW_1.6_BAILIFF": "Peran **Juru Sitah** yang telah ditingkatkan dapat diberikan mandat untuk mendapatkan Pengaruh terhadap Kepemilikan dan memprospek deposito mineral sebelum ekstraksi.",
+		"WHATS_NEW_1.6_MASTERPIECES": "Karya **Masterpiece** baru, yang terbuka ketika kondisi tertentu terpenuhi, akan memberi Anda bonus saat dibangun dengan cara tertentu.",
+		"WHATS_NEW_1.6_NOTIFICATION": "Panel **pemberitahuan baru** akan membantu Anda menyortir pemberitahuan dan memperingatkan Anda tentang masalah tertentu.",
+		"WHATS_NEW_1.6_FOUNTAINS": "Air mancur yang dapat disesuaikan baru untuk menghiasi desa Anda.",
+		"WHATS_NEW_1.6_PATHING": "Penduduk kini dapat melewati bangunan yang memiliki beberapa pintu masuk, memungkinkan aliran yang lebih baik.",
+		"WHATS_NEW_1.6_FIXES": "Dan banyak penyesuaian dan perbaikan lainnya!",
+		"WHATS_NEW_1.6_FOOTER": "Temukan informasi lebih lanjut di bagian Bantuan dan ingat Anda dapat mengajukan pertanyaan di Discord kami. Selamat bersenang-senang!"
+	},
+	"WHATS_NEW_1.6_PATCH": {
+		"WHATS_NEW_1.6_PATCH_HEADER": "Pembaruan Konten {1} kini TERSEDIA!",
+		"WHATS_NEW_1.6_PATCH_VILLAGER_NAMES": "Sekarang dengan ribuan **nama penduduk**, Anda tidak akan menemukan Female#0382 lain di antara populasi Anda dalam waktu dekat. Anda juga dapat berkreasi dengan fungsionalitas **pembaruan nama** baru!",
+		"WHATS_NEW_1.6_PATCH_PROMOTION": "Akan jauh lebih mudah untuk **memajukan penduduk** mulai sekarang, berkat fungsionalitas penyortiran baru, bersama dengan tombol untuk mencari penduduk, rumah, dan tempat kerja mereka.",
+		"WHATS_NEW_1.6_PATCH_MELODY_COMPOSER": "Dapatkah Anda mendengar lonceng berdenting harmonis? Itu karena sekarang Anda dapat menyesuaikan bagaimana dan kapan lonceng berbunyi di gereja-gereja Anda. Selain itu, setelah Anda membuka Karya Masterpiece Air Mancur Otomatis, Anda akan dapat mencoba **Melody Composer** baru!",
+		"WHATS_NEW_1.6_PATCH_MINERAL_DEPOSITS": "**Deposito Mineral** telah disesuaikan dan ditingkatkan! Bijih besi seharusnya jauh lebih mudah untuk ditemukan dan kran besar sekarang bertindak sebagai depot sumber daya wajib untuk tambang. Pantau para penambang saat mereka menumpuk peti-peti permata dan bijih yang berharga!",
+		"WHATS_NEW_1.6_PATCH_MASTERPIECES": "**Masterpiece** juga telah mengalami peningkatan: bagian baru untuk karya masterpiece Gerbang, penyesuaian efek & kondisi, dan informasi lebih lanjut tentang masterpiece dalam tooltip menu Bangun. Bagian Bantuan juga mencakup topik ini untuk memperkenalkan Anda.",
+		"WHATS_NEW_1.6_PATCH_BUILDERS": "Penduduk sedikit lebih pintar... **Tukang Bangunan** sekarang akan mengambil bahan dari gudang pribadi mereka sebelum pergi ke gudang bersama. Juga, mereka akan memprioritaskan proyek utama terlebih dahulu.",
+		"WHATS_NEW_1.6_PATCH_FOOTER": "Pembaruan konten ini segera tersedia. Selamat bersenang-senang membangun kembali dunia Anda!"
+	},
+	"WHATS_NEW_1.6_KEYMAPPING": {
+		"WHATS_NEW_1.6_KEYMAPPING_HEADER": "Good news, Lords & Ladies! The {1} Update has arrived!",
+		"WHATS_NEW_1.6_KEYMAPPING_ACCESSIBILITY_PLAN": "Very dear to our hearts, this update is one of the first steps of a larger **accessibility plan** that we will be implementing on our way towards the final release of the game.",
+		"WHATS_NEW_1.6_KEYMAPPING_KEYMAPPING": "With **Key Mapping**, a much-requested feature from the community, you can now set up the game controls to suit your own playstyle and requirements. Find it in the Settings panel!",
+		"WHATS_NEW_1.6_KEYMAPPING_NEW_SHORTCUTS": "Enjoy a series of **new shortcuts** such as zooming via keyboard commands, recentering the camera on the Village Center, and more. These new functions are included in the key mapping options to allow for your own personal preferences.",
+		"WHATS_NEW_1.6_KEYMAPPING_CAMERA_OPTIONS": "In the same vein, we’ve also added options to invert the vertical or horizontal **camera axis** and adjust the **camera speed sensitivity** while using your mouse or keyboard.",
+		"WHATS_NEW_1.6_KEYMAPPING_UI_REHAUL": "Going forward, we continue our work backstage on the complete **UI rehaul**, improving on both the look of the interface and the overall user experience. Expect easier access to critical information, new useful functionalities and better tooltips, all wrapped in a softer aesthetic. There is still a lot more work needed to implement all the changes of the initial phase of this major update. We will keep you informed on our progress early next year.",
+		"WHATS_NEW_1.6_KEYMAPPING_GAME_DESIGN": "Last but not least, we have been working full time on completing the final **game design**. We plan to publish an **updated roadmap** early next year detailing the remaining updates and features to the final release.",
+		"WHATS_NEW_1.6_KEYMAPPING_FOOTER": "A big thank you to every single one of you for all your feedback, bug reports and support throughout the year. We hope you all have a fantastic winter break!"
+	},
+	"WHATS_NEW_1.7_PREVIEW": {
+		"WHATS_NEW_1.7_PREVIEW_HEADER": "Alpha {1} is LIVE! Welcome to the preview build of the upcoming New UI update!",
+		"WHATS_NEW_1.7_PREVIEW_NEW_UI": "Contained within, you will discover an **all new UI**, with changes and improvements throughout. A new actions bar, new HUD, a new Book feature and much, much more. Anything and everything is new!",
+		"WHATS_NEW_1.7_PREVIEW_FEEDBACK": "We would love to get your **feedback** on the preview, for which you can join us on Discord (link below), where we have a dedicated preview feedback channel, or alternatively leave us your comments in the Steam or GOG forums.",
+		"WHATS_NEW_1.7_PREVIEW_BUGS": "Though the vast majority of the new UI is in place, this is not the full release and will likely contain a few **bugs**. Please report them in the usual way through Discord or on the GOG and Steam forums.",
+		"WHATS_NEW_1.7_PREVIEW_FOOTER": "We hope you all enjoy this first hands-on experience of the upcoming 1.7 New UI Update."
+	},
+	"WHATS_NEW_1.7_UI_UPDATE": {
+		"WHATS_NEW_1.7_UI_UPDATE_HEADER": "Welcome to the {1} New UI update!",
+		"WHATS_NEW_1.7_UI_UPDATE_WHAT_IS_NEW": "So what is new? Well a whole new UI for starters! Everything from the main menu, including save thumbnails, sorting in the modding menu, loading screen, to a complete rehaul of the in-game UI. The list is far too big to get everything in here but let’s look at a few features.",
+		"WHATS_NEW_1.7_UI_UPDATE_ACTION_BAR": "A new **action** bar that includes the **build** menu (with filtering by categories and a search functionality), a **paint** menu, a **visibility** menu and quick access to the **Book**!",
+		"WHATS_NEW_1.7_UI_UPDATE_BOOK": "The Book is your information companion and features a number of pages such as a sortable **villager list**, where you can assign jobs and locate homes and workplaces, a **workplace list** that can be sorted in many ways including those under construction. The Book also includes pages on **trade**, **estates**, **budget** and your **army** with new and improved functions for all.",
+		"WHATS_NEW_1.7_UI_UPDATE_HUD": "A whole host of information panels across the top of the new **HUD** which will give you easy access to information on resources, your villagers, such as their happiness as well as information on your village and buildings within it. You can quickly navigate to buildings without workers or resources with a single click.",
+		"WHATS_NEW_1.7_UI_UPDATE_STATUS": "**Building status** and **issues counters** have been introduced that will make it much easier to see and locate any potential problems affecting your village.",
+		"WHATS_NEW_1.7_UI_UPDATE_TOOLTIPS": "You will now also find a large range of breakdown **tooltips** to better understand immigration, happiness and budget information, to name but a few. ",
+		"WHATS_NEW_1.7_UI_UPDATE_QUEST_MODULE": "A new **quest module** and notifications throughout. Quests can be easily pinned for tracking, whilst notifications can be seen around the new interface for quick identification of issues, warnings and other notifications, such as visits from envoys and of course much more.",
+		"WHATS_NEW_1.7_UI_UPDATE_HELP": "A complete revision of the **help menu** with more detail and much more information, that should aid in getting to grips with the game more quickly and effortlessly. Many useful tips can also be found throughout the help topics for those that may already have a good handle on the game.",
+		"WHATS_NEW_1.7_UI_UPDATE_ART": "All of the above and more, has been wrapped up in a pleasing aesthetic and gorgeous art style that fits both the game and the setting. New **illustrations** adorn the new Book and beautiful illustrations can be found throughout the game when receiving letters and narrative notifications.",
+		"WHATS_NEW_1.7_UI_UPDATE_ENVIRONMENT": "Not only that but we have been working under the hood making improvements that include new environmental textures and grass variations, making for a richer world for your villagers.",
+		"WHATS_NEW_1.7_UI_UPDATE_FOOTER": "We hope you enjoy the update and don’t forget to check out our Discord and social media channels below."
+	},
+	"WHATS_NEW_1.7_PATCH": {
+		"WHATS_NEW_1.7_PATCH_HEADER": "Alpha {1} UI/UX Patch is LIVE!",
+		"WHATS_NEW_1.7_PATCH_WHAT_IS_NEW": "The patch is here and with it come a slew of medieval fixes and improvements including:",
+		"WHATS_NEW_1.7_PATCH_NEW_COUNTERS": "Improved tracking of potential problems with the addition of two new clickable **counters** to easily locate paint zone issues as well as ongoing constructions. They can be found at the top of the screen, with existing counters.",
+		"WHATS_NEW_1.7_PATCH_RESOURCE_TEXTFIELD": "The possibility to **manually input values** of resources to be traded, in the Book.",
+		"WHATS_NEW_1.7_PATCH_DISTANCE_WORK": "The return of **distance to work** information when assigning jobs in workplaces.",
+		"WHATS_NEW_1.7_PATCH_IMPROVED_MENUS": "A host of improvements within the main menu, such as, a more detailed **map selector** as well as more streamlined **save/load menus**.",
+		"WHATS_NEW_1.7_PATCH_MOTION_SICKNESS": "An option to **switch off animations** within the environment (tree & grass sway) to alleviate symptoms of **motion sickness**.",
+		"WHATS_NEW_1.7_PATCH_ZOOMING_OUT": "A more responsive **camera zoom**, especially noticeable when navigating elevated terrain. Looking at you, Mountain Map!",
+		"WHATS_NEW_1.7_PATCH_TEXT_CONTRAST": "Increased **text contrast** and refined shadows, improving the overall readability. (Tip: the user interface can be resized in the Settings, if desired.)",
+		"WHATS_NEW_1.7_PATCH_VISUAL_TWEAKS": "New **tooltips**, plus many more visual and aesthetic **tweaks** throughout.",
+		"WHATS_NEW_1.7_PATCH_BUGFIXES": "Numerous bug fixes and crashes addressed.",
+		"WHATS_NEW_1.7_PATCH_FOOTER": "UI improvements will keep on coming whilst the focus for 1.8 shifts back to game content. Thank you for the precious feedback and until next time, fare thee well!"
+	},
+	"WHATS_NEW_1.8": {
+		"WHATS_NEW_1.8_HEADER": "Foundation’s Fall Update {1} Preview Is Finally Here!",
+		"WHATS_NEW_1.8_HEADER_OFFICIAL": "Foundation’s Fall Update {1} Is Finally Here!",
+		"WHATS_NEW_1.8_WHAT_IS_NEW": "We are very proud to present the latest patch preview for Foundation. It introduces several exciting new features that will bring new life to your settlements! Here are some highlights:",
+		"WHATS_NEW_1.8_WHAT_IS_NEW_OFFICIAL": "We are very proud to present the latest update for Foundation. It introduces several exciting new features that will bring new life to your settlements! Here are some highlights:",
+		"WHATS_NEW_1.8_NEW_PRODUCTION_BUILDINGS": "Two **new production buildings** to add to your settlement: the **candle workshop** and the **common wares workshop**. Both buildings feature updated visuals and a distinct resource pile so you’re never left in the dark. We plan to add this useful feature to all other buildings too, as soon as we complete their visual overhaul. If you’re wondering what’s the purpose behind our new buildings, the answer is simple: to provide a new way of fulfilling “Goods” needs for your villagers (in addition to common clothes).",
+		"WHATS_NEW_1.8_CONSTRUCTION_BUNDLES": "**Construction step bundles** have been added to the newly introduced buildings in Foundation. This feature helps create a more logical and immersive building process. We took this opportunity to add a relevant entry in the Help if you ever need a reminder.",
+		"WHATS_NEW_1.8_STOCKPILING_COMMUNICATION": "**Stockpiling** resources is now **better communicated** in-game. It prevents your villagers from using stored resources. The addition of icons, information shown in tooltips and even sometimes mentions in the building status should help players understand this useful mechanic.",
+		"WHATS_NEW_1.8_GLOBAL_IMPROVEMENTS": "Each new patch brings in a number of **global improvements**. Foundation fans will be pleased to hear about the inclusion of new and improved tooltips, enhanced workplace storage display (input and output) in the overview tab, and more.",
+		"WHATS_NEW_1.8_MODDING_IMPROVEMENTS": "We always pay special attention to the **modding** scene. With 1.8, we wanted modders to have access to yet another creative tool: the creation of **custom mandates** for bailiffs! To further support the modding community and their creative efficiency, modders will now have access to **debugging tools**! For players, we have added **weblinks to mod.io** so you can more easily communicate with mod creators in case of issues (the Report tool is not suited for mod support).",
+		"WHATS_NEW_1.8_AND_MORE": "And **much more**!",
+		"WHATS_NEW_1.8_FEEDBACK": "We would love to get your feedback on the preview, for which you can join us on Discord (Discord button below), where we have a dedicated preview feedback channel, or alternatively leave us your comments in the Steam or GOG forums.",
+		"WHATS_NEW_1.8_FOOTER": "On that note, enjoy the game! :)\n - The Polymorph Games team"
+	},
+	"WHATS_NEW_1.8_PATCH": {
+		"WHATS_NEW_1.8_PATCH_PREVIEW_HEADER": "The {1} Preview Build is live!",
+		"WHATS_NEW_1.8_PATCH_PREVIEW_NEW_FEATURES": "This is your chance to test drive some of the new features we’ve been working on.",
+		"WHATS_NEW_1.8_PATCH_PREVIEW_HIGHLIGHTS": "Among the new features, you’ll notice:",
+		"WHATS_NEW_1.8_PATCH_PREVIEW_RESOURCE_TRACKER": "A **resource tracker** tool which adds useful icons above entities in the world. Never lose track of your village’s resources anymore!",
+		"WHATS_NEW_1.8_PATCH_PREVIEW_CONSTRUCTION_BUNDLES": "Improvements to **construction bundles** so the visual messaging is more accurate.",
+		"WHATS_NEW_1.8_PATCH_PREVIEW_FEEDBACK": "As always, we would like to hear from you about this preview build. You can join the discussion on our Discord (Discord button below), where we have a dedicated preview feedback channel. Alternatively, you can leave comments here on Steam or on the GOG forums.",
+		"WHATS_NEW_1.8_PATCH_PREVIEW_BUGS": "Be aware that this version of the game is likely to contain bugs. Please report them in the usual way through Discord or on the GOG and Steam forums.",
+		"WHATS_NEW_1.8_PATCH_PREVIEW_FOOTER": "We hope you all enjoy this hands-on experience of the upcoming update, which is due to release before Christmas.",
+		"WHATS_NEW_1.8_PATCH_OFFICIAL_HEADER": "Good news everyone! The {1} Update is now available!",
+		"WHATS_NEW_1.8_PATCH_OFFICIAL_HIGHLIGHTS": "Since things went along quite nicely with the preview version, we’re launching this update a bit ahead of time. Here’s an overview of what’s included:",
+		"WHATS_NEW_1.8_PATCH_OFFICIAL_RESOURCE_TRACKER": "**Resource Tracker (new!)**: track your resources in real time! Icons have been added above entities so you can have a better grasp of where resources are located—and how they’re being used—within your village. We’ve also added a shortcut to the Book for each resource in the information module, so you can easily manage everything in a click or two.",
+		"WHATS_NEW_1.8_PATCH_OFFICIAL_CONSTRUCTION_BUNDLES": "**Construction Progress (overhaul!)**: one goal of this update was to achieve better HUD efficiency. Our team worked diligently to achieve this goal. Among other things, ready-to-build bundles are now shown in construction progress bars! In other words, you can now see what’s ready for construction (and what still requires more resources) in a flash.",
+		"WHATS_NEW_1.8_PATCH_OFFICIAL_BUGFIXES": "**Plus many more tweaks**, bug fixes and QOL changes!",
+		"WHATS_NEW_1.8_PATCH_OFFICIAL_FOOTER": "We would like to take this opportunity to thank you all for sharing feedback, bug reports and fostering a welcoming community all year long. We hope you enjoy this last update for 2021 and we will see you next year with an amazing roadmap of features to come. Meanwhile, enjoy the holiday season and have a great time!"
+	},
+	"WHATS_NEW_1.9_MEDIA_PREVIEW": {
+		"WHATS_NEW_1.9_MEDIA_PREVIEW_HEADER": "Welcome to Foundation's Update {1} Media Preview!",
+		"WHATS_NEW_1.9_MEDIA_PREVIEW_INTRO": "We are happy to share this exclusive hands-on preview of Foundation’s upcoming 1.9 Update with you. Here's some of the new and overhauled game features you will find in this work-in-progress version:",
+		"WHATS_NEW_1.9_MEDIA_PREVIEW_MONASTERY": "The **Monastery** monument (from the Clergy Estate) has been significantly enhanced. There are plenty of new functions available, including a Hospitium (to host visitors), a Scriptorium (to produce Manuscripts, a new resource) and Nun Dorms to which you can concede female villagers!",
+		"WHATS_NEW_1.9_MEDIA_PREVIEW_SUB_BUILDINGS": "**Monuments** can now have sub buildings. For instance, you can build a Chapel inside your Monastery, or a Great Hall in your Manor House, both made from multiple parts. You can also switch the functions of sub buildings at will should you require so.",
+		"WHATS_NEW_1.9_MEDIA_PREVIEW_PROGRESSION": "**Progression** has been completely redone. At the beginning, you will unlock buildings from a common progression path, then you will have to choose which of the three Estates—Labor, Kingdom or Clergy—you want to invest towards.",
+		"WHATS_NEW_1.9_MEDIA_PREVIEW_ECONOMY": "The **economy** has also shifted dramatically from being market-centric to now relying heavily on taxation. You will have to build a Tax Office, assign a Tax Collector and strike a balance between filling your coffers without tanking your global Happiness factor!",
+		"WHATS_NEW_1.9_MEDIA_PREVIEW_NARRATIVE": "You will notice that the **narrative** aspect now plays a bigger role than ever in Foundation. Indeed, we’ve added a large number of interesting events and opportunities, ranging from hosting fairs to improving trades with neighbors and much, much more. In that same regard, players will feel they have more of a say as Lord/Lady thanks to the addition of more extensive narrative choices.",
+		"WHATS_NEW_1.9_MEDIA_PREVIEW_EDICTS": "**Edicts** and **privileges** let you bend the rules in your favor. The former are laws you enact for your village, while the latter are special ‘gifts’ handed out by Estates to their most loyal followers. ",
+		"WHATS_NEW_1.9_MEDIA_PREVIEW_ONBOARDING": "**Onboarding** quests will help new and returning players alike get their bearings. Of course, you can choose to skip them altogether!",
+		"WHATS_NEW_1.9_MEDIA_PREVIEW_FOOTER": "Media partners like you help us spread the word about our medieval city builder and gather extremely valuable feedback. Thank you in advance for your time in Foundation, and we can't wait to see what you will have to say about the game to your respective audiences! \n - The Polymorph Games team"
+	},
+	"WHATS_NEW_1.9_PUBLIC_PREVIEW": {
+		"WHATS_NEW_1.9_PUBLIC_PREVIEW_HEADER": "Welcome to Foundation's {1} Public Playtest!",
+		"WHATS_NEW_1.9_PUBLIC_PREVIEW_INTRO_1": "We have exciting news to share today: the public playtest of the upcoming 1.9 update is now underway!",
+		"WHATS_NEW_1.9_PUBLIC_PREVIEW_INTRO_2": "Get a first hands-on experience with a wide range of new and improved gameplay features. Here’s a few examples of what’s included:",
+		"WHATS_NEW_1.9_PUBLIC_PREVIEW_FOOTER": "Read more about update 1.9 on our official website. Have fun!"
+	},
+	"WHATS_NEW_1.9_RELEASE": {
+		"WHATS_NEW_1.9_RELEASE_HEADER": "Lords & Ladies, get ready: Update {1} is now LIVE!",
+		"WHATS_NEW_1.9_RELEASE_INTRO": "We are extremely happy to share Foundation’s latest update with you today. ",
+		"WHATS_NEW_1.9_RELEASE_INTRO2": "From redesigned systems to brand-new features, there is a lot to unpack with this content. Here’s some of its highlights: ",
+		"WHATS_NEW_1.9_RELEASE_VA": "**Village Aspirations** that act as long-term goals for your village...with achievements to boot! Each of these challenges has been designed to encourage you to try new ways of playing. ",
+		"WHATS_NEW_1.9_RELEASE_PROGRESSION": "A **new progression system** that gives much more weight to your decisions. In addition to a common progression path that offers some of the most essential Foundation buildings, each Estate now has its own set of unlockables...can you get them all? \n\nFor now, we focused on the Clergy progression path. With our next updates, we plan to upgrade both the Kingdom and Labor progression paths.",
+		"WHATS_NEW_1.9_RELEASE_TAXATION": "**Taxation**, now a cornerstone of your economy! Gone are the days when market stalls were the go-to for coins: now it's all about taxing your people. Be careful not to overtax though, at the risk of tanking the global happiness of your villagers… ",
+		"WHATS_NEW_1.9_RELEASE_MONASTERY": "An **improved monastery** that now boasts several new features, including the possibility to integrate your own nuns for the very first time! Not only did our talented artists upgrade its visuals in a big way, but we also added functions such as the hospitium (to host visitors), the scriptorium (to produce manuscripts) and dormitories.",
+		"WHATS_NEW_1.9_RELEASE_SUB": "**Sub-buildings** that let you expand the capabilities of your buildings. You can now assign functions to a group of building parts (what we call sub-buildings) instead of individual parts. Each sub-building will therefore be linked to a single function (e.g. Treasury) which you can change should you desire so. ",
+		"WHATS_NEW_1.9_RELEASE_EDICTS": "**Edicts** and **privileges**, which change the rules of the game to your advantage. The former are laws enacted in your village, while the latter are rewards offered by the various Estates to their most devoted Lords or Ladies. ",
+		"WHATS_NEW_1.9_RELEASE_NARRATIVE": "**More extensive narrative choices** that add to the immersion and the gameplay possibilities. Will you be able to negotiate a better deal with a neighbouring village? Will you rely on one of your specialists to solve a pressing production need? The choices are yours to make!  ",
+		"WHATS_NEW_1.9_RELEASE_MORE": "And more! ",
+		"WHATS_NEW_1.9_RELEASE_FOOTER": "As this update profoundly impacts a ton of gameplay elements, we expect to have to make some adjustments to the game's balance. \n\nWe would like to take this opportunity to thank everyone who has taken part in 1.9 previews. Your feedback, bug reports and general enthusiasm really helped shape the update in a positive way. We hope you enjoy what we've been working on for the past several months. \n\n - The Polymorph Games team " 
+	},
+	"WHATS_NEW_1.9.1_RELEASE": {
+		"WHATS_NEW_1.9.1_RELEASE_HEADER": "Greetings Lords & Ladies!",
+		"WHATS_NEW_1.9.1_RELEASE_INTRO": "The last update of 2022 is upon us with 1.9.1. Here’s a summary of what you can expect:",
+		"WHATS_NEW_1.9.1_RELEASE_MAPGEN": "Our **experimental map generator** goes public! After a few weeks of testing in beta, everyone can now play with procedurally-generated maps in Foundation. Choose from one of the three available topographies to generate an infinite number of maps, each with their own unique landscapes. \n\nWhile now public, the map generator is still a work-in-progress—hence the limited number of options available now—and will evolve over time. We plan further additions to this feature, including flattened environments with an upcoming \"plains\" topographical cluster and more. Stay tuned! ",
+		"WHATS_NEW_1.9.1_RELEASE_RESOURCES": "The **Resources tooltip** now displays a detailed breakdown of each resource’s physical location to help you understand where and how they are being used.",
+		"WHATS_NEW_1.9.1_RELEASE_TIPS": "**Loading screen tips** have been added! In this first edition, our scribes share some of Foundation's best kept secrets, delivered through a curated list of easy to understand tips. ",
+		"WHATS_NEW_1.9.1_RELEASE_FOOTER": "We hope you enjoy this one last update of 2022. We wish you all a very happy holiday season. \n\n - The Polymorph Games team"
+	}
+}

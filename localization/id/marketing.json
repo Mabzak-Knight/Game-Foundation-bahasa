@@ -1,0 +1,9 @@
+﻿{
+	"MARKETING_1.9.1_RELEASE": {
+		"MARKETING_1.9.1_RELEASE_STEAM_POST_MINIATURE": "The 1.9.1 Update Is Now Available!",
+		"MARKETING_1.9.1_RELEASE_STEAM_POST_HEADER": "Greetings everyone! Update 1.9.1 has just been released. One of the main changes is the addition of our map generator to the main (public) version of the game. We also added a detailed breakdown for the Resources tooltip as well as loading screen tips. Here's the details:",
+		"MARKETING_1.9.1_RELEASE_STEAM_POST_LOC": "Foundation is now fully localized in **TRANSLATED_LANGUAGE**! We worked diligently to make sure the game can be enjoyed to its full potential in this language.",
+		"MARKETING_1.9.1_RELEASE_STEAM_POST_FOOTER": "That's it for now. Stay tuned for further update news coming up in 2023.",
+		"MARKETING_1.9.1_BANNER_MAP_GENERATOR": "Map Generator"
+	}
+}
